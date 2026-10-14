@@ -2,12 +2,22 @@ project overview
 		+ target audience
     Employers 
 		+ content strategy
+	To display some code blocks and the variety of code Ive worked with 
 		+ information organization
+	I tried to layout the information to where the user can see it all and doesn't have to flip through pages 
 		+ visual desing (wireframe and more)
+	Ive attempted to recreate the minimalist designs i've researched on youtube in terms of scrolling effects and hovers
 		+ interaction / functionality
+	Ive implemented a light/dark mode function as well as text size editing in addition to hover effects
 		+ technical overview
+	Features drop down menus and hover functionality
 		+ timeline / project milestone
-
+10/07-Started working on html
+10/09-html side finished for front end
+10/10-started styling the cool color palette and design in css
+10/12-finished laying out the buttons and positioning words 
+10/13-Started up on javascript functionality, assigning function to the font size and dark/light mode buttons
+10/14-Did some last minute polishes and finished needed side work
     PERSONAL PORTFOLIO WEBSITE PROJECT
 
 Overview:
@@ -65,7 +75,7 @@ Ill have a divider spanning across the different sections
 7. Will the site be mobile-friendly? How will you ensure responsiveness?
 Yes, Ill be sure to edit the margins and padding so they conform to many devices
 8. What visual hierarchy will guide visitors?
-
+By putting the most eye catching graphics and info at the middle to bottom to persuade visitors to scroll further 
 9. How will consistency be maintained across pages?
 Ill be sure to keep the headers and body texts to the same font and colors 
 10. How will accessibility be considered (contrast, font size, readability)?
@@ -83,7 +93,7 @@ Buttons and navigation menus
 2. Will your site include a contact form? How will it work?
 Yes itll have my school email and phone number for contact
 3. What JavaScript features will you implement?
-N/A
+eventListeners to change the contrast of the site as well as font size for worsened vision users
 4. How will users receive feedback from interactions?
 There will be a hover effect over buttons and links 
 5. How does interactivity improve the user experience?
